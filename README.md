@@ -15,7 +15,12 @@ npm install -g typescript
 git clone https://github.com/RoopeshKumarJha/Angular-2-Basics.git
 ```
 
-4: Start server (includes auto refreshing) and gulp watcher
+4: Download Node Modules
+```
+npm install
+```
+
+5: Start server (includes auto refreshing) and gulp watcher
 ```
 npm start
 ```
